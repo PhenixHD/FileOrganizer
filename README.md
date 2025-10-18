@@ -40,7 +40,7 @@ A simple, standalone `.exe` that automatically sorts files into categorized fold
 ## Building from Source
 To compile the project yourself, use the following:
 ```sh
-git clone https://github.com/YOUR_USERNAME/FileOrganizer.git
+git clone https://github.com/PhenixHD/FileOrganizer.git
 cd FileOrganizer
 dotnet publish -r win-x64 -c Release --self-contained true /p:PublishSingleFile=true
 ```
